@@ -83,7 +83,6 @@ a {
   display: none;
   text-align: justify;
   animation: content-load 1000ms ease-in;
-  text
 }
 
 .btn {
@@ -92,6 +91,7 @@ a {
   padding: 5px 10px;
   border-radius: 5px;
   animation: content-load 1000ms ease-in;
+  cursor: pointer;
 }
 .btn:hover {
   transform: scale(0.98);
