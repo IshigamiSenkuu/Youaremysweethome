@@ -57,7 +57,7 @@ body {
   background: #3a4052 url("/images/img2.png") no-repeat center center/cover;
 }
 
-.showcase .video-container video {
+.showcase .video-container img {
   min-width: 100%;
   min-height: 100%;
   -o-object-fit: cover;
